@@ -39,13 +39,11 @@ npm run start
 ### 💻 Desktop Mode
 
 ## Initial Page
+![image](https://user-images.githubusercontent.com/62652109/220373508-8cc3c190-bf68-4521-865e-d22823c8cec8.png)
 
 
 ## Initial Page - List Section
-
-
-
-
+![image](https://user-images.githubusercontent.com/62652109/220373571-9e4bd272-24e8-449b-b74f-d42b0706c1a2.png)
 
 
 👉 Visit my linkedin: https://www.linkedin.com/in/mateus-tavares-2382911a0/
